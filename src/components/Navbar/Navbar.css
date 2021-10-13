@@ -1,0 +1,20 @@
+
+
+.contener{
+   
+    margin-right: 1px;
+    margin-left: 2px;
+    background-color:black;
+    padding: 30px;
+     
+    
+}
+.nav a{
+    color:blue;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+}
+nav a:hover{
+    background-color:tan;
+} 

@@ -1,0 +1,365 @@
+
+
+
+
+.header{
+    background-color: #e6e0e0;
+}
+
+
+.menu2{
+    background-color:rgb(227, 227, 235);
+}
+.home-name{
+    color: rgb(61, 61, 211);
+    padding: 10px;
+    text-align: center;
+}
+.Learn{
+   text-align: center;
+   margin-left: 100px;
+   color: gray;
+    
+}
+.logoCaption{
+    font-size:2.5em;
+    padding: 25px;
+    color: rgb(124, 119, 119);
+    text-align: center;
+}
+
+.header nav{
+    border: 1px solid gray;
+    margin: 50px;
+    padding: 30px;
+    text-align: center; 
+    border-radius: 10px;
+    background-color: rgb(223, 220, 215);
+    box-shadow: 10px 10px 15px #b6adad;
+    border: none;
+    
+}
+
+.nav-link{
+
+    border: 1px solid gray;
+    height:40px;
+    border-radius: 5px;
+    background-color: white;
+    color:black;
+    font-size: 20px;
+}
+.nav-link:hover{
+    background-color:white;
+    
+}
+.coverpage{
+    background-color:gainsboro;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 25px;
+    box-shadow: 10px 10px 15px #b6adad;
+    border: none;
+   
+}
+
+
+.pageviews{
+    color:orange;
+}
+
+.views1{
+     color: black;
+}
+
+.home-tutors{
+    color:orange ;
+}
+.tutors1{
+    color: black;
+}
+
+.tuition-jobs{
+    color: orange;
+}
+
+.jobs1{
+    color: black;
+}
+
+
+.Looking{
+    text-align: center;
+    color:goldenrod;
+}
+
+   
+.tell{
+    margin: 40px;
+    border-radius:20px;
+    background-color:gold;
+} 
+
+
+.tell:hover{
+    
+    border: none;
+    background-color: #Fff;
+    box-shadow: 0px 0px 20px 5px lightgray;
+    transform: scale(1.05);
+}
+.get{
+    margin: 40px;
+    border-radius:20px;
+    background-color:lightsalmon;
+}
+.get:hover{
+    border: none;
+    background-color: #Fff;
+    box-shadow: 0px 0px 20px 5px lightgray;
+    transform: scale(1.05);
+}
+ .confirm{
+    margin: 40px;
+    border-radius:20px;
+    background-color:orange;
+ }
+  .confirm:hover{
+    border: none;
+    background-color: #Fff;
+    box-shadow: 0px 0px 20px 5px lightgray;
+    transform: scale(1.05);
+  }
+    
+ .card{
+     border: none;
+     box-shadow: 20px 20px 15px lightgray;
+     
+ }
+ .sal{
+     box-shadow: 10px 10px 15px gray;
+     text-align: center;
+     border: 10px;
+     border-radius: 10px;
+     color:white;
+     background-color:red;
+      
+ }
+ .pp{
+     text-align: center;
+ }
+
+ 
+ .orange-background{
+     background-color:#fceae8 ;
+     border-radius:15px ;
+ }
+ .carousel-item{
+     padding: 20px 40px;
+    box-shadow: 10px 10px 25px rgb(243, 243, 240);
+    border: none;
+ }
+ .tutor{
+     color:teal;
+ }
+ .buy-now-button{
+     background-image: linear-gradient( to bottom, #FF589B 0%, #FF136F 100%);
+     color: #fff;
+     border: none;
+     border-radius: 8px;
+     padding: 9px 25px;
+     cursor:pointer;
+     box-shadow: 20px 20px 15px lightgray;
+ }
+ .Tuition{
+    text-align: center;
+    color:rgb(106, 117, 116);
+ }
+ .Salary{
+     color: red;
+ }
+ .subject{
+     color:peru;
+ }
+
+ .container{
+    text-align: center;
+    padding: 50px;
+     margin-bottom: 10px;
+ }
+
+ 
+.phone{
+    color: #d31111;
+    font-size: 20px;
+}
+
+.contact{
+    margin: 0 5px;
+     padding: 10px 16px;
+     cursor: pointer;
+     color: #18db90;
+     font-size: 30px;
+     border-radius: 5px;
+ }
+ .contact:hover{
+     background-color: red;
+ }
+.location .map{
+   
+    height: 60px;
+    width: 60px;
+    margin:  15px;
+    overflow: hidden;
+    background:#fff;
+    border-radius: 50px;
+    cursor: pointer;
+    border-radius: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-out; 
+}
+.location .map:hover{
+    width: 200px;
+}
+.location .map .mail{
+    display: inline-block;
+     height: 60px;
+     width: 60px;
+     text-align: center;
+     border-radius: 50px;
+     box-sizing: border-box;
+     line-height: 60px;
+     transition: all 0.3s ease-out;
+}
+.location .map:nth-child(1):hover .mail{
+    background: #4267B2;
+}
+.location .map:nth-child(2):hover .mail{
+
+    background: #4267B2;
+}
+.location .map .mail i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+}
+.location .map:hover .mail i{
+    color: #fff;
+}
+
+.location .map span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+}
+.location .map:nth-child(1) samp{
+    color: #4267B2;
+}
+.location .map:nth-child(2) samp{
+    
+    color: #4267B2;
+}
+
+.Social{
+    color: #da5151;
+    padding: 30px;
+    text-align: left;
+    
+}
+ 
+.iconlogo{
+    text-align: left;
+    margin-left: 20px;
+}
+ 
+ .wrapper .button{
+    
+     display: inline-block;
+     height: 60px;
+     width: 60px;
+     margin: 0 5px;
+     overflow: hidden;
+     background:#fff;
+     border-radius: 50px;
+     cursor: pointer;
+     border-radius: 0px 10px 10px rgba(0,0,0,0.1);
+     transition: all 0.3s ease-out;
+    
+ }
+ .wrapper .button:hover{
+    width: 200px;
+
+}
+
+ .wrapper .button .icon{
+     display: inline-block;
+     height: 60px;
+     width: 60px;
+     text-align: center;
+     border-radius: 50px;
+     box-sizing: border-box;
+     line-height: 60px;
+     transition: all 0.3s ease-out;
+ }
+ .wrapper .button:nth-child(1):hover .icon{
+     background: #4267B2;
+ }
+
+ .wrapper .button:nth-child(2):hover .icon{
+    background:#E1306C;
+}
+
+.wrapper .button:nth-child(3):hover .icon{
+    background: #1DA1F2;
+}
+
+.wrapper .button:nth-child(4):hover .icon{
+    background: #333;
+}
+
+ .wrapper .button .icon i{
+     font-size: 25px;
+     line-height: 60px;
+     transition: all 0.3s ease-out;
+ }
+
+ .wrapper .button:hover .icon i{
+     color: #fff;
+ }
+
+ .wrapper .button span{
+     font-size: 20px;
+     font-weight: 500;
+     line-height: 60px;
+     margin-left: 10px;
+     transition: all 0.3s ease-out;
+ }
+
+ .wrapper .button:nth-child(1) samp{
+    color: #4267B2;
+}
+.wrapper .button:nth-child(2)samp{
+    color: #E1306C;
+}
+.wrapper .button:nth-child(3)samp{
+    color: #1DA1F2;
+}
+.wrapper .button:nth-child(4)samp{
+    color: #333;
+}
+
+
+
+.copy{
+    background-color: rgb(241, 241, 252);
+    /* margin: 10px; */
+    box-shadow: 10px 10px 15px gray;
+    border: none;
+}
+.footer{
+    text-align: left;
+    margin-right: 20px;
+    color:red;
+}

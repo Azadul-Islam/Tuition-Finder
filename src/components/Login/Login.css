@@ -1,0 +1,21 @@
+.login-body{
+    height: 600px;
+    width: auto;
+    background-image: url("../../Images/login-bg.jpg");
+}
+
+.login-body-2{
+    height: 600px;
+    width: auto;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.login-body-3{
+    height: 400px;
+    width: 800px;
+    background: skyblue;
+}
+
+.login-body-4{
+    padding: 60px;
+}
