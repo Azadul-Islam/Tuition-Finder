@@ -1,6 +1,9 @@
 import React from 'react';
 import './Navbar.css';
 import {Link} from 'react-router-dom';
+import img6 from '../../Images/home.jpg';
+
+
 
 
 const Navbar = () => {
@@ -11,14 +14,15 @@ const Navbar = () => {
   <div class="contener">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   
-  <a class="navbar-brand" href="#">Nav</a>
-  
-  
+  <a >
+    <img class="find" src={img6} alt="" />
+  </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
      </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <div >
+        
       <nav>
       <ul class="navbar-nav">
         <ul class="nav navbar-nav">

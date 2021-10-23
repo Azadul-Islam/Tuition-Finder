@@ -1,5 +1,101 @@
 
 
+.logo-home a {
+    display: inline-block;
+    margin: 0 auto 0 30px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: 490px;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+.logo-home {
+    height: 87px;
+    margin-top: 29px;
+    
+}
+
+img.home-logo-image {
+    background-position: 0 0;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    display: block;
+    height: 100px;
+    width: 100px;
+    
+}
+.logo-home h1.logo-title {
+    color: #197dab;
+    display: block;
+    float: left;
+    font-family: "Noto Sans",sans-serif;
+    font-size: 30px;
+    left: -15px;
+    position: relative;
+    text-align: right;
+    top: 28px;
+    width: 287px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.logo-home .logo-caption {
+    color: #8c4b0b;
+    font-size: 16px;
+    display: block;
+    text-shadow: 0 1px 0 rgb(255 255 255 / 90%);
+    
+}
+.logo-home span.logo {
+    float: left;
+   
+}
+.miss-call{
+    
+    color: black;
+    font-size: 20px;
+    
+}
+.missed{
+    font-size: 20px;
+    color: #f60;;
+    float: right;
+    text-decoration: none; 
+    
+}
+.whatsapp-icon{
+  
+    color: #18db90;
+}
+
+.whatsapp{
+    
+    font-size: 20px;
+    color:#f60;
+    text-decoration: none; 
+}
+
+
+.hts-whatsapp-top-block {
+   
+    position: relative;
+    color: #f60;
+    
+    position: absolute;
+    margin-top: -5px;
+    color: #f60;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+
+
+
 
 
 .header{

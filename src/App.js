@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 
 import './App.css';
+import Chittagong from "./components/Chittagong/Chittagong";
 import Home from "./components/Home/Home";
 import Join from "./components/Join/Join";
 import Login from "./components/Login/Login";
@@ -14,6 +15,8 @@ import Need from "./components/Need/Need";
 import NotFound from "./components/NotFound/NotFound";
 import Online from "./components/Online/Online";
 import Pricing from "./components/Pricing/Pricing";
+import Sirajganj from "./components/Pricing/Sirajganj/Sirajganj";
+import Rajshahi from "./components/Rajshahi/Rajshahi";
 import Works from "./components/Works/Works";
 
 
@@ -46,6 +49,15 @@ function App() {
         <Route path="/pricing">
             <Pricing></Pricing>
         </Route>
+        <Route path="/sirajganj">
+          <Sirajganj></Sirajganj>
+        </Route>
+        <Route path="/Rajshahi">
+          <Rajshahi></Rajshahi>
+        </Route>
+        <Route path="/Chittagong">
+         <Chittagong></Chittagong>
+        </Route>
         <Route path="/login">
         <Login></Login>
         </Route>
@@ -77,7 +89,9 @@ export default App;
 
 // import {
 // import Online from './components/Online/Online';
-  // BrowserRouter as Router,
+//   /import Rajshahi from './components/Rajshahi/Rajshahi';
+// / Bimport Chittagong from './components/Chittagong/Chittagong';
+// rowserRouter as Router,
 //   Switch,
 //   Route,
 //   Link

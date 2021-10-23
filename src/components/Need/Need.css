@@ -1,0 +1,291 @@
+.log-home a {
+    display: inline-block;
+    margin: 0 auto 0 30px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+.logo-home {
+    height: 87px;
+    margin-top: 29px;
+    
+}
+
+img.home-logo-image {
+    background-position: 0 0;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    display: block;
+    height: 100px;
+    width: 100px;
+    
+}
+.log-home h1.log-title {
+    color: #197dab;
+    display: block;
+    float: left;
+    font-family: "Noto Sans",sans-serif;
+    font-size: 30px;
+    left: -60px;
+    position: relative;
+    text-align: right;
+    top: 28px;
+    width: 287px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.log-home .log-caption {
+    color: #8c4b0b;
+    font-size: 16px;
+    display: block;
+    text-shadow: 0 1px 0 rgb(255 255 255 / 90%);
+    
+}
+.log-home span.log {
+    float: left;
+   
+}
+
+
+
+.RegistrationFreeStyle {
+    BORDER-RADIUS: 0PX 0PX 15PX 15PX;
+    color: #fff;
+    background-color: #034d6f;
+    border: 0 solid #284e69;
+    width: 145px;
+    height: 25px;
+    
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.container {
+    width: 1170px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.ff{
+    
+  font-size: 25px;
+ color: white;
+ BORDER-RADIUS: 0PX 0PX 15PX 15PX;
+ color: #fff;
+ background-color: #034d6f;
+ border: 0 solid #284e69;
+ width: 145px;
+ height: 25px;
+
+   
+}
+
+
+.studentStyle {
+    border-left: 1px dotted #034d6f;
+    padding: 3px 0 6px 6px;
+}
+.studentStyle, .tutorStyle {
+    border-bottom: 1px dotted #034d6f;
+    border-top: 1px dotted #034d6f;
+    background-color: #fff;
+}
+label {
+    font-weight: 700!important;
+}
+label {
+    display: inline!important;
+    font-weight: 400!important;
+}
+.tutorStyle {
+    border-right: 1px dotted #034d6f;
+    padding: 3px 6px 6px 0;
+}
+
+
+
+.contact-name {
+    background-position: -26px -2px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 12px;
+    vertical-align: top;
+    width: 15px;
+}
+.common-sprite-opt {
+    background-image: url(https://static.hometutorsite.com/content/images/common-lg/home_tuition_tution_tutor_authentication_icons_v1.png);
+}
+ 
+
+.contact-details-phone {
+    background-position: -25px -52px;
+    width: 15px;
+}
+.contact-details-mail, .contact-details-phone {
+    height: 13px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
+
+.input-group-addon:first-child {
+    border-right: 0;
+}
+.subject-icon {
+    background-position: -136px -158px;
+}
+.course-icon {
+    background-position: -100px -158px;
+}
+.course-icon, .pincode-icon, .subject-icon, .tuition-need-icon {
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555555;
+    text-align: center;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+
+.col-md-pull-5 {
+    right: 41.66666667%;
+}
+.col-md-push-7 {
+    left: 58.33333333%;
+}
+.arrow-hand {
+    left: -19px;
+    position: absolute;
+    top: -19px;
+}
+
+.lp-form {
+    background: #f1f1f1;
+    border: 5px solid #034d6f;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.full-width-lp {
+    margin-top: 8px;
+}
+.full-width-lp {
+    margin-top: 30px;
+}
+.full-width {
+    border: 2px solid #fff;
+    box-shadow: 0 0 2px #9b9a9a;
+    border-radius: 5px;
+    float: left;
+    min-height: 40px;
+    padding: 15px;
+    width: 100%;
+}
+
+.lp-testimonial h3 {
+    font-weight: 700;
+    text-align: center;
+}
+.lp-testimonial {
+    border-top: 2px dotted #D1CFCF;
+    margin-top: 25px;
+    padding-top: 15px;
+}
+
+
+.home-testimonial-block .user-pic img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.user-pic {
+    text-align: center;
+    width: 100%;
+}
+
+.lp-testimonial .home-testimonial-block .testimonial-content {
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+}
+.home-testimonial-tutor1 {
+     background-position: 258px -460px; 
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+/* .container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1170px;
+} */
+
+
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+} 
+
+#wrap {
+    background: #f1f1f1;
+    min-height: 376px;
+    margin-bottom: 10px;
+}
+#footer {
+    padding: 15px 0;
+    background: url(https://static.hometutorsite.com/content/images/common-sm/footer-repeat.jpg);
+    box-shadow: 0 0 4px #a6c9df;
+    display: inline-block;
+    width: 100%;
+}
+.muted credit{
+    
+}
+
+.container credit{
+
+}
+
+#footer p.muted {
+    color: #010c0f;
+    padding-top: 10px;
+}
+.footer-lp p.muted {
+    padding-top: 0!important;
+}
+.footer-lp .muted {
+    border-top: none;
+}
